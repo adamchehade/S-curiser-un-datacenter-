@@ -1,14 +1,14 @@
-Vous êtes un.e jeune chef.fe d'entreprise et vous souhaitez proposer une offre d'hébergement de services informatiques au sein du datacenter que vous êtes en train de construire.
+
 
 Dans un datacenter, les risques sont multiples, c’est pourquoi vous allez multiplier les mesures de sécurité et de redondance : électrique, thermique, réseau, incendie, etc. 
 
 La technologie (biométrie, vidéosurveillance, intrusion) s’accompagne toujours du contrôle humain et vous mettrez en place un système de supervision des données sensibles de votre datacenter. Une  équipe sera en place dans la salle de surveillance 24h/24, 7j/7 et 365j/an.
 
-Votre travail va consister à tester le système de protection que vous allez mettre en place.
+Ce travail va consister à tester le système de protection que vous allez mettre en place.
 
-Dans un premier temps, vous suivrez les consignes sous Moodle pour mettre en place chaque application ( MQTT, Nodered, GRAFANA, InfluxDB) et pour dialoguer avec les différents capteurs proposés.
+Dans un premier temps, mettre en place chaque application ( MQTT, Nodered, GRAFANA, InfluxDB) et pour dialoguer avec les différents capteurs proposés.
 
-Dans un second temps, vous mettrez en place l'ensemble des capteurs qui vous permettront de sécuriser ce datacenter à savoir:
+Dans un second temps,  mettre en place l'ensemble des capteurs qui vous permettront de sécuriser ce datacenter à savoir:
 
 zone rouge=>Coeur du datacenter: lecteur de carte RFID/ capteur de vibration/détecteur de présence/capteur température de d'humidité/capteur de fumée/ LED jaune
 zone jaune=>Zone technique: détecteur de présence/capteur température de d'humidité/capteur de fumée/LED verte

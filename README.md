@@ -68,7 +68,8 @@ Ces applications permettront d’assurer la communication avec les différents c
 - 2 claviers, souris et écrans HDMI  
 
 ### Alimentation
-- 2 alimentations 220V USB-C  
+- 2 alimentations USB MICRO
+- 1 alimentations USB-C  
 
 ### Câblage
 - Câbles Dupont mâle-mâle  
